@@ -2,13 +2,13 @@ Ingredients:
 - 2 avocados
 - 1 lime
 - 1/2 cup cilantro
+- 1 med onion
 - 2 tsp salt
-- jalapeño to taste
 
 Instructions:
 - cut and mash avocados
 - chop cilantro
-- chop the jalapeño
+- dice the onion
 - squeeze lime
 - add salt
-- and mix well
+- mix well
